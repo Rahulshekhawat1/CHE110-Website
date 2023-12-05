@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"><meta name="Viewport" content="width=device-width ;initial-scale=1.0" />
+<title>Population Growth - A Topic Of Living Environment</title><link href="population.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar">
+<section class="nav-center">
+<div class="nav-header">
+<a href="helloworld.html" class="nav-logo">
+<img src="https://logowik.com/content/uploads/images/census1869.jpg" alt="Census.info" style="height:120px;width: 200px; 
+padding-left: 50px;"/></a>
+</div>
+<div class="nav-links">
+<a href="helloworld.html" class="nav-link"> home </a><a href="causes.html" class="nav-link"> roots </a>
+<a href="solutions.html" class="nav-link"> keys </a></div>
+</section>
+</nav>
+<main class="main page">
+<section class="introduction">
+<h4>Population Growth - Explained</h4>
+<img src="https://t3.ftcdn.net/jpg/02/89/09/94/360_F_289099442_2VPJxVHromc2mFvqwsqxXtpNz36LrCBj.jpg" style="width: 450px;">
+<p>
+Population growth is the increase in the number of people in a population or dispersed group.<br><span>(Or)<br><span>Population 
+growth is the increase in the number of living beings on Earth. For most of human history our population size was relatively stable. But 
+with innovation and industrialization, energy, food, water, and medical care became more available and reliable. Consequently, global 
+human population rapidly increased, and continues to do so, with dramatic impacts on global climate and ecosystems. We will need 
+technological and social innovation to help us support the world’s population as we adapt to and mitigate climate and environmental 
+changes.
+</p>
+</section>
+<br><hr><br>
+<section>
+<h4>Population Growth - Calculation</h4>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Population_curve.svg" style="width: 350px;">
+<p>
+When determining whether a population is overpopulated a variety of factors must be looked at. Given the complexity of the issue, 
+scientists and wildlife managers often differ in judging such claims. In many cases scientists will look to food sources and living space 
+to gauge the abundance of a species in a particular area. National parks collect extensive data on the activities and quality of the 
+environment they are established in. This data can be used to track whether a specific species is consuming larger amounts of their 
+desired food source over time. 
+</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/World_population_%28UN%29.svg/1024px-World_population_
+%28UN%29.svg.png" style="width: 350px; padding-top: 15px;">
+<p>
+This is done typically in four ways, the first being "total counting". Researchers will use aerial photography to count large populations 
+in a specific area such as deer, waterfowl, and other "flocking" or "herd" animals. Incomplete counts involve counting a small 
+subsection of a population and extrapolating the data across the whole area. This method will take into account the behavior of the 
+animals such as how much territory a herd may cover, the density of the population, and other potential factors that may come into 
+question. 
+</p>
+<p>
+The third method is "indirect counts"; this is done by looking at the environment for signs of animal presence.Typically done by 
+counting fecal matter or dens/nesting of a particular animal. This method is not as accurate as direct counting, but gives general 
+counts of a population in a specific locale. 
+</p>
+<h5>Population Growth Formula</h5>
+<a href="https://calculator.academy/population-growth-calculator/" target="_blank"><img src="https://calculator.academy/wpcontent/uploads/2020/04/Population-growth-calculator.jpg" style="width: 450px;"></a>
+<p>
+The following formula is used to calculate a population size after a certain number of years.<br>
+x(t) = x<sub>0</sub> × (1 + r) <sup>t</sup><br>Wher…
